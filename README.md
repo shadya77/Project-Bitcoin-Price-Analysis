@@ -1,1 +1,2 @@
 # Project-Bitcoin-Price-Analysis
+Manuela, the Head of Finance at your company, has requested an analysis on the performance of Bitcoin. She wants to understand Bitcoin a bit better to determine if it is a good investment opportunity or not. She is concerned about the volatility of Bitcoin and wants to understand the full picture and if this is potentially a good investment. She wants a report by Monday morning with recommendations. The final deliverable will need to consist of some statistics, a PivotTable, and a few charts.
